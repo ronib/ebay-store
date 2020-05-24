@@ -1,0 +1,286 @@
+{
+    "href": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=drone&limit=3&offset=0",
+    "itemSummaries": [
+        {
+            "itemId": "v1|291524585112|0",
+            "title": "Syma X5SW-V3 Wifi FPV RC Drone Quadcopter 2.4Ghz 6-Axis Gyro with Headless Mode",
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JGkAAOSw-81ZmoWa/s-l225.jpg"
+            },
+            "price": {
+                "value": "54.99",
+                "currency": "USD"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|291524585112|0",
+            "seller": {
+                "username": "e***t",
+                "feedbackPercentage": "99.4",
+                "feedbackScore": 135589
+            },
+            "marketingPrice": {
+                "originalPrice": {
+                    "value": "78.98",
+                    "currency": "USD"
+                },
+                "discountPercentage": "30",
+                "discountAmount": {
+                    "value": "23.99",
+                    "currency": "USD"
+                }
+            },
+            "condition": "New",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/JGkAAOSw-81ZmoWa/$_0.JPG?set_id=880000500F"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "USD"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "currentBidPrice": {
+                "value": "54.99",
+                "currency": "USD"
+            },
+            "epid": "1242098853",
+            "itemWebUrl": "http://www.ebay.com/itm/Syma-X5SW-V3-Wifi-FPV-RC-Drone-Quadcopter-2-4Ghz-6-Axis-Gyro-with-Headless-Mode-/291524585112?hash=item43e0382698:g:JGkAAOSw-81ZmoWa",
+            "itemLocation": {
+                "postalCode": "900**",
+                "country": "US"
+            },
+            "categories": [
+                {
+                    "categoryId": "182186"
+                },
+                {
+                    "categoryId": "179697"
+                },
+                {
+                    "categoryId": "220"
+                },
+                {
+                    "categoryId": "625"
+                },
+                {
+                    "categoryId": "2562"
+                },
+                {
+                    "categoryId": "182181"
+                }
+            ],
+            "additionalImages": [
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_2_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_3_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_4_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_5_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_6_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_7_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_8_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_9_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_10_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_11_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/291524585112_12_0_1/225x225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "availableCoupons": false,
+            "legacyItemId": "291524585112"
+        },
+        {
+            "itemId": "v1|222347987223|0",
+            "title": "DJI Phantom 4 PRO+ PLUS Drone 4k w/ Gimbal Camera 1080p 20MP + 5.5\" Display NEW",
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3fIAAOSwTzlZgj~R/s-l225.jpg"
+            },
+            "price": {
+                "value": "1799.00",
+                "currency": "USD"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|222347987223|0",
+            "seller": {
+                "username": "c***s",
+                "feedbackPercentage": "99.1",
+                "feedbackScore": 23165
+            },
+            "marketingPrice": {
+                "originalPrice": {
+                    "value": "2299.99",
+                    "currency": "USD"
+                },
+                "discountPercentage": "22",
+                "discountAmount": {
+                    "value": "500.99",
+                    "currency": "USD"
+                }
+            },
+            "condition": "New",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/3fIAAOSwTzlZgj~R/$_0.JPG?set_id=880000500F"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "USD"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "currentBidPrice": {
+                "value": "1799.00",
+                "currency": "USD"
+            },
+            "epid": "2159540393",
+            "itemWebUrl": "http://www.ebay.com/itm/DJI-Phantom-4-PRO-PLUS-Drone-4k-w-Gimbal-Camera-1080p-20MP-5-5-Display-NEW-/222347987223?hash=item33c4f90917:g:3fIAAOSwTzlZgj~R",
+            "itemLocation": {
+                "postalCode": "191**",
+                "country": "US"
+            },
+            "categories": [
+                {
+                    "categoryId": "179697"
+                },
+                {
+                    "categoryId": "625"
+                }
+            ],
+            "additionalImages": [
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/222347987223_2_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/222347987223_3_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/222347987223_4_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/222347987223_5_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/222347987223_6_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/222347987223_7_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/222347987223_8_0_1/225x225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "222347987223"
+        },
+        {
+            "itemId": "v1|232126092274|0",
+            "title": "DJI Mavic Pro Folding Drone - 4K Stabilized Camera, Active Track, Avoidance, GPS",
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/17EAAOSwiiRZgi9G/s-l225.jpg"
+            },
+            "price": {
+                "value": "999.00",
+                "currency": "USD"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|232126092274|0",
+            "seller": {
+                "username": "c***s",
+                "feedbackPercentage": "99.1",
+                "feedbackScore": 23166
+            },
+            "marketingPrice": {
+                "originalPrice": {
+                    "value": "1299.99",
+                    "currency": "USD"
+                },
+                "discountPercentage": "23",
+                "discountAmount": {
+                    "value": "300.99",
+                    "currency": "USD"
+                }
+            },
+            "condition": "New",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/00/s/NDM3WDgwMA==/z/17EAAOSwiiRZgi9G/$_0.PNG?set_id=880000500F"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "USD"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "currentBidPrice": {
+                "value": "999.00",
+                "currency": "USD"
+            },
+            "epid": "512988795",
+            "itemWebUrl": "http://www.ebay.com/itm/DJI-Mavic-Pro-Folding-Drone-4K-Stabilized-Camera-Active-Track-Avoidance-GPS-/232126092274?hash=item360bcb13f2:g:17EAAOSwiiRZgi9G",
+            "itemLocation": {
+                "postalCode": "191**",
+                "country": "US"
+            },
+            "categories": [
+                {
+                    "categoryId": "179697"
+                },
+                {
+                    "categoryId": "625"
+                }
+            ],
+            "additionalImages": [
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/232126092274_2_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/232126092274_3_0_1/225x225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "availableCoupons": false,
+            "legacyItemId": "232126092274"
+        }
+    ]
+}

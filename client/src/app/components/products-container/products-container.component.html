@@ -1,0 +1,23 @@
+<div class="search-container">
+  <input placeholder="search products" class="search-input" [(ngModel)]="searchValue" (keyup.enter)="onSearch()">
+  <button class="search-button" (click)="onSearch()">Search</button>
+  <mat-form-field class="search-menu">
+    <mat-label>Sort by</mat-label>
+    <mat-select [(value)]="selected">
+      <mat-option value="best">Best Match</mat-option>
+      <mat-option value="time">Time</mat-option>
+      <mat-option value="price">Price</mat-option>
+    </mat-select>
+  </mat-form-field>
+</div>
+
+<div class="products-container">
+  <app-product 
+    *ngFor="let product of products$ | async" 
+    [product]="product" 
+    (click)="onSelect(product)"
+    [class.selected]="product === selectedProduct" 
+    class="product">
+  </app-product>
+
+</div>
